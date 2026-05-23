@@ -1,0 +1,60 @@
+1. Purpose: Protocol Overview 
+Is to explain what the system is trying to do — NOT technically, but economically. 
+This is equally if not more important particularly because this lens tends to be a lack in systems.
+
+Structure:
+- What the protocol is trying to enable
+- What problem does it claim to solve
+- What environment does it operates in (DeFi, AI agents, infra, etc.)
+- Stage (early / growth / scaling)
+
+2. Purpose: Governance Structure 
+Map who actually controls the system (not limited to what is written in docs).
+
+Structure:
+- Decision making authority (who can change what)
+- On chain vs off chain governance split
+- Admin keys / multisig presence
+- Upgrade mechanisms (if any)
+- Emergency controls / override logic
+
+Kernal:
+Is to focus on "real control vs stated decentralization"
+
+3. Incentive Structure 
+
+Purpose: Describe how the system shapes behavior of users, validators, agents, or capital.
+
+Structure:
+- Token distribution model (high-level only)
+- Reward mechanisms (staking, liquidity, usage, etc.)
+- Participation incentives (why users join)
+- Retention incentives (why users stay)
+- Exit incentives (why users leave or dump)
+
+Kernal:
+Is to conclude on "What behavior is being unintentionally rewarded?”
+
+4. Key Risks
+Purpose: Convert the  into visible risk signals 
+
+Format:
+- Risk: Description
+- Mechanism: On why it happens
+- Impact: On what breaks
+
+Risk types:
+- Governance captures
+- Incentive decay 
+- Sybil / agent exploitations
+- Treasury imbalances
+- Upgrade centralizations
+
+5. Systemic Scenario 
+
+Purpose: Simulate how the system breaks under scale without being dramatic 
+
+Structure:
+- Trigger event (growth, listing, exploit, agent scaling)
+- Chain reaction (what breaks first, second, third)
+- Final system state (what fails completely)
